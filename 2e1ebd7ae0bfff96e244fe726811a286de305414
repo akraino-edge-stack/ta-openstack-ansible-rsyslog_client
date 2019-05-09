@@ -1,0 +1,7 @@
+Code-Review+2: Krisztián Lengyel <krisztian.lengyel@nokia.com>
+Verified+1: Krisztián Lengyel <krisztian.lengyel@nokia.com>
+Submitted-by: Krisztián Lengyel <krisztian.lengyel@nokia.com>
+Submitted-at: Thu, 09 May 2019 12:59:57 +0000
+Reviewed-on: https://gerrit.akraino.org/r/651
+Project: ta/openstack-ansible-rsyslog_client
+Branch: refs/heads/master
